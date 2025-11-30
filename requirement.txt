@@ -2,3 +2,5 @@ openai
 langgraph
 streamlit
 PyPDF2
+google-genai
+google-generativeai
